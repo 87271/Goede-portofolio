@@ -1,2 +1,7 @@
 node_modules/
 .next/cache/
+
+git status (check ik of alles goed gaat)
+git add ....  (./)
+git commit -m (stuur je het naar lokale git)
+git push (stuur het naar externe git)

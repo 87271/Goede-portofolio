@@ -41,7 +41,7 @@ const Project = () => {
           <Projectitem
           title="GP Zandvoort"
           backgroundImg={gpImg}
-          projectUrl="https://87271.stu.sd-lab.nl//GP/index.html"
+          projectUrl="https://87271.stu.sd-lab.nl/GP/index.html"
         />
   
       <Projectitem
